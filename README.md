@@ -61,5 +61,8 @@ Projenin amacı "-df" komutunun çıktısını alarak diskin (/) ne kadarının 
 
 ![hatali](https://user-images.githubusercontent.com/56304631/210843234-c17e55c4-1db5-4692-b32d-2b65ebc9a355.png)
 
+### YouTube 
+Uygulamanın detaylı anlatımına aşağıdaki linkten ulaşabilirsiniz.
+
 
 
