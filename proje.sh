@@ -66,7 +66,7 @@ disk_info=$(df -h | grep "$disks" | awk '{print "Disk: " $1 "\nBoyut: " $2 "\nKu
 # Seçilen diski göster
 zenity --info \
        --title "Disk Bilgileri" \
-       --text "$disk_info"
+       --text $(echo "$disk_info")
 
 # Diski temizlemeyi onaylamak için kullanıcıya bir kutu aç
 zenity --question \
