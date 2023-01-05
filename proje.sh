@@ -40,15 +40,15 @@ echo "Disk usage: $disk_usage"
 
 zenity --progress --text="Disk usage: $disk_usage%" --percentage=$disk_usage
 
-    if [[ "$?" != "0" ]]
+    if [ "$?" != "0" ]
     then
         progress
     else
         zenity  --warning \
                 --title="Disk usage" \
                 --text="Disk bulunmamaktadır!" \
-                --width=200 \
-                --height=100 
+                --width 200 \
+                --height 100 
         menu
 
     fi
@@ -74,7 +74,7 @@ zenity --question \
        --text "Seçilen diski temizlemek istediğinizden emin misiniz?\n$disk_info"
 
 # Kullanıcı "Evet" seçeneğini seçtiğinde diski temizle
-if [[ $? -eq 0 ]]
+if [ $? -eq 0 ]
 then
   sudo rm -rf "$(df | grep "$disks" | awk '{print $6}')/*"
   zenity --info \
@@ -89,10 +89,10 @@ function quit () {
     karar=$(zenity  --question \
                     --title="CIKIS"\
                     --text="Ana menuye dönmek istiyor musunuz?"\
-                    --width=200 \
-                    --height=100 )
+                    --width 200 \
+                    --height 100 )
 
-    if [[ "$?" != "1" ]]
+    if [ "$?" != "1" ]
     then
        menu 
     else
@@ -119,7 +119,7 @@ function menu () {
         )"
 
         # handle cancel button
-        if [[ "$?" != "0" ]]
+        if [ "$?" != "0" ]
         then
             exit 1
         fi
