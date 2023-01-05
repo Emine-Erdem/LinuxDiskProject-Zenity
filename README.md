@@ -63,6 +63,12 @@ Projenin amacı "-df" komutunun çıktısını alarak diskin (/) ne kadarının 
 
 ### YouTube 
 Uygulamanın detaylı anlatımına aşağıdaki linkten ulaşabilirsiniz.
+https://youtu.be/ltBUEQNVt1Q
+
+#### Not
+* Emine Erdem
+* Bursa Teknik Üniversitesi-Bilgisayar Mühendisliği 
+
 
 
 
