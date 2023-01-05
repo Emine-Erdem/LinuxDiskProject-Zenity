@@ -29,7 +29,7 @@ Linux Araçları ve Kabuk Programlama dersi kapsamında yapılan bir projedir. V
 ## Projenin Amacı ve Kullanımı
 Projenin amacı "-df" komutunun çıktısını alarak diskin (/) ne kadarının dolu olduğunun bilgisi alınacak. Ayrıca ek bir seçenek olarak tüm diskleri listeleme seçeneği ile diskleri ve boyutlarını görüntüleyebilir, istersek bir diski de seçip silebiliriz.
 ### Ana Menu
-* Ana menude bizi üç seçenek karşılıyor. İstediğimiz seçeneğe çift tıklayarak veya tek bir tıklamadan sonra 'OK' seçeneğine basarak da erişebiliriz.
+* Ana menude bizi üç seçenek karşılıyor. İstediğimiz seçeneğe çift tıklayarak veya tek tıklamadan sonra 'OK' seçeneğine basarak da erişebiliriz.
 
 ![menu](https://user-images.githubusercontent.com/56304631/210816743-84b67dfd-dc6c-4c7e-8f1f-bad4d521c781.png)
 
