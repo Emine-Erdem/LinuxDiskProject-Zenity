@@ -50,5 +50,15 @@ Projenin amacı "-df" komutunun çıktısını alarak diskin (/) ne kadarının 
 
 ![info](https://user-images.githubusercontent.com/56304631/210832727-89c23ad8-7596-4cab-b8ae-f38d3222a327.png)
 
+### Çıkış
+* Ana menuden 'İptal' seçeneğine tıkladığımızda bizi bir karar ekranı karşılıyor. Bu ekranda eğer çıkış yapmaktan vazgeçtiysek tekrar ana menuye yönlendiriliyoruz, çıkış yaptığımızda ise arayüz kapanır ve terminal ekranında işlemlerin bittiğine dair bir bilgilendirme yazısı verilir.
+
+![exit2](https://user-images.githubusercontent.com/56304631/210842364-90c1c58c-1194-4d3f-b516-c6e0829b2b96.png)
+
+### Hata
+* Hiç bir seçim yapmadığımız halde ilerlemeye çalışınca terminale 'Hatalı Seçim' uyarısı verilir.
+
+![hatali](https://user-images.githubusercontent.com/56304631/210843234-c17e55c4-1db5-4692-b32d-2b65ebc9a355.png)
+
 
 
