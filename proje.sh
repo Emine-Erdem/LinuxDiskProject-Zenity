@@ -92,7 +92,7 @@ function quit () {
                     --width 200 \
                     --height 100 )
 
-    if [ "$?" != "1" ]
+    if [ "$?" != "0" ]
     then
        menu 
     else
@@ -105,7 +105,7 @@ function quit () {
         echo "|__________________________________________|"
         echo "  "
         echo "  "
-        exit 0
+        exit 1
     fi
 }
 
