@@ -35,6 +35,7 @@ Projenin amacı "-df" komutunun çıktısını alarak diskin (/) ne kadarının 
 
 ### Disk Doluluk Oranı
 
-![disk](https://user-images.githubusercontent.com/56304631/210819002-b71aae4b-5b47-4677-9949-653a74baa7fd.png)  ![diskspace](https://user-images.githubusercontent.com/56304631/210819136-7ffd3dbc-d90a-4eea-bf2c-6ae665e8e5df.png)
+![disk2](https://user-images.githubusercontent.com/56304631/210821349-61857fe1-1d01-47b5-bdaa-52d8f8cf035c.png)
+
 
 
