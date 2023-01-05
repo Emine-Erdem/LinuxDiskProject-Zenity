@@ -87,8 +87,8 @@ fi
 
 function quit () {
     karar=$(zenity  --question \
-                    --title="CIKIS"\
-                    --text="Ana menuye dönmek istiyor musunuz?"\
+                    --title="ÇIKIŞ"\
+                    --text="Çıkış yapmak istediğinizden emin misiniz?"\
                     --width 200 \
                     --height 100 )
 
