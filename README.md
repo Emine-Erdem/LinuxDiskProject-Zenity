@@ -37,5 +37,19 @@ Projenin amacı "-df" komutunun çıktısını alarak diskin (/) ne kadarının 
 
 ![disk2](https://user-images.githubusercontent.com/56304631/210821349-61857fe1-1d01-47b5-bdaa-52d8f8cf035c.png)
 
+* 'Disk Doluluk Oranı' Seçeneğini seçerek diskin doluluk oranını ve yüzdeliğini progress barda görüntüleyebiliriz. 
 
+### Diskleri Listele ve Sil
+
+![del2](https://user-images.githubusercontent.com/56304631/210828181-bd62392f-a56a-4570-9786-0fbdb538bce4.png)
+
+* 'Diskleri Listele ve Sil' Seçeneği seçildiğinde önce tüm diskler alfabetik olarak 2 şekilde listelenir.
+
+![del3](https://user-images.githubusercontent.com/56304631/210831356-0f8ada80-77cf-4c0b-a720-7f6da20f69cd.png)
+
+* Silmek istediğimiz diski seçtikten sonra gelen uyarı penceresine onay verdiğimiz zaman disk silinmiş olur.
+
+![info](https://user-images.githubusercontent.com/56304631/210832727-89c23ad8-7596-4cab-b8ae-f38d3222a327.png)
+
+* Eğer herhangi bir diski silmeden önce genel bir bilgi almak istiyorsak disk listesinden seçim yapmadan 'OK' seçeneğine basarak genel bir bilgilendirme ekranına erişmiş oluruz.
 
