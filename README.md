@@ -31,5 +31,10 @@ Projenin amacı "-df" komutunun çıktısını alarak diskin (/) ne kadarının 
 
 ![menu](https://user-images.githubusercontent.com/56304631/210816743-84b67dfd-dc6c-4c7e-8f1f-bad4d521c781.png)
 
+* Ana menude bizi üç seçenek karşılıyor. İstediğimiz seçeneğe çift tıklayarak veya tek bir tıklamadan sonra 'OK' seçeneğine basarak da erişebiliriz.
 
-* Ana 
+### Disk Doluluk Oranı
+
+![disk](https://user-images.githubusercontent.com/56304631/210819002-b71aae4b-5b47-4677-9949-653a74baa7fd.png)  ![diskspace](https://user-images.githubusercontent.com/56304631/210819136-7ffd3dbc-d90a-4eea-bf2c-6ae665e8e5df.png)
+
+
