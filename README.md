@@ -54,7 +54,7 @@ Projenin amacı "-df" komutunun çıktısını alarak diskin (/) ne kadarının 
 ### Çıkış
 * Ana menuden 'İptal' seçeneğine tıkladığımızda bizi bir karar ekranı karşılıyor. Bu ekranda eğer çıkış yapmaktan vazgeçtiysek tekrar ana menuye yönlendiriliyoruz, çıkış yaptığımızda ise arayüz kapanır ve terminal ekranında işlemlerin bittiğine dair bir bilgilendirme yazısı verilir.
 
-![exit2](https://user-images.githubusercontent.com/56304631/210842364-90c1c58c-1194-4d3f-b516-c6e0829b2b96.png)
+![exit](https://user-images.githubusercontent.com/56304631/210863415-75efe3ef-a8b7-4cb4-9a70-c60d4a92e14d.png)
 
 ### Hata
 * Hiç bir seçim yapmadığımız halde ilerlemeye çalışınca terminale 'Hatalı Seçim' uyarısı verilir.
