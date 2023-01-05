@@ -12,7 +12,7 @@ function progress () {
     echo "# İşlem devam ediyor => %50." ; sleep 0.2
     
     echo "75"
-    echo "# İşlem devam ediyor => %75." ; sleep 0.1
+    echo "# İşlem devam ediyor => %75." ; sleep 0.5
 
     echo "# Yönlendirme bitti!!!" ; sleep 0.5
     echo "100"
